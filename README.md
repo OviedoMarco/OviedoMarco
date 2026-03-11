@@ -1,117 +1,149 @@
-<!-- Banner animado personalizado -->
 <div align="center">
-  <img width="100%" height="250" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Marco%20Oviedo&fontSize=90&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Financial%20Programming%20%7C%20Full%20Stack%20Development&descAlignY=55&descAlign=62&fontColor=fff" alt="header"/>
+  <img width="100%" height="220" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:233554&height=220&section=header&text=Marco%20Oviedo&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%7C%20Financial%20Analytics%20%7C%20BI%20Automation&descAlignY=55&descAlign=62&fontColor=64ffda" alt="header"/>
 </div>
 
-<!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=infinity&random=false&width=1000&height=100&lines=Passionate+Data+Scientist+%26+Financial+Developer;Expert+in+Automation+%26+Advanced+Analytics;Building+Intelligent+Solutions+with+Python+%26+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=infinity&width=700&height=45&lines=Building+financial+data+pipelines+at+scale;Automating+what+shouldn't+be+manual;From+Oracle+GL+to+executive+dashboards" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Badges elegantes -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Oviedo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-oviedo-992a321a9)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=oviedomarco&color=blueviolet&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/oviedomarco?style=for-the-badge&color=blue)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Oviedo-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marco-oviedo-992a321a9)
+  ![Profile Views](https://komarev.com/ghpvc/?username=oviedomarco&color=64ffda&style=flat-square)
   
 </div>
 
-<!-- About Me Section con diseño mejorado -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+### Quién soy
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Soy **Data Engineer** en **Farmacias del Ahorro**, donde construyo y mantengo los pipelines de datos financieros que alimentan los reportes ejecutivos de la organización — P&L, Balance General, Capital de Trabajo y analíticos de gasto por farmacia.
 
-I'm a **Senior Data Scientist** and **Financial Developer** with a passion for transforming complex data into actionable insights. My expertise spans from building sophisticated financial models to developing full-stack applications that drive business value.
+Mi trabajo diario vive en la intersección de **ingeniería de datos** y **finanzas corporativas**: extraer datos de Oracle GL, transformarlos en una arquitectura medallion (Bronze → Silver → Gold), y entregar reportes automatizados en Power BI, Excel y PowerPoint que antes tomaban días de trabajo manual.
 
-- 🔭 Currently working on **Advanced Financial Analytics Platform** using Python & TypeScript
-- 🌱 Deep diving into **MLOps**, **Quantitative Finance**, and **Cloud Architecture**
-- 👯 Looking to collaborate on **FinTech Projects** and **Open Source Data Science Tools**
-- 💡 Specialized in **Algorithmic Trading**, **Risk Analytics**, and **Predictive Modeling**
-- ⚡ Fun fact: I can optimize a pandas operation faster than you can say "vectorization"
+Paralelamente, estudio **Actuaría** en la **Universidad Autónoma de Nuevo León (UANL)** y sigo una ruta autodidacta en matemáticas, finanzas cuantitativas y fundamentos de ingeniería de datos.
 
-<br clear="both">
+---
 
-<!-- Tech Stack con categorías -->
-## 🛠️ Technology Stack
+### 🔧 Stack real — lo que uso todos los días
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<details open>
-<summary><b>📊 Data Science & Analytics</b></summary>
-<br>
+**Datos & Pipelines**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=oracle&logoColor=white)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
-<details open>
-<summary><b>💰 Financial Technologies</b></summary>
-<br>
+</td>
+<td valign="top" width="33%">
 
-![QuantLib](https://img.shields.io/badge/QuantLib-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel_VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-</details>
+**BI & Reporting**
 
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_/_VBA-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint_Auto-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-</details>
+</td>
+<td valign="top" width="33%">
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
+**Infraestructura**
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-</details>
+![Oracle](https://img.shields.io/badge/Oracle_GL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
+</td>
+</tr>
+</table>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-</details>
+---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer"/>
+### 📐 Arquitectura de trabajo
+
+```
+                    ┌─────────────────────────────────────────────┐
+                    │            ORACLE GL / DISCOVERER            │
+                    └──────────────────┬──────────────────────────┘
+                                       │  Selenium + Python
+                                       ▼
+                    ┌─────────────────────────────────────────────┐
+                    │              🥉 BRONZE LAYER                │
+                    │         Raw extracts → Parquet files        │
+                    └──────────────────┬──────────────────────────┘
+                                       │  Polars lazy API
+                                       ▼
+                    ┌─────────────────────────────────────────────┐
+                    │              🥈 SILVER LAYER                │
+                    │   Dimension tables + Config-driven transforms│
+                    │   YAML closure schedule, store status logic  │
+                    └──────────────────┬──────────────────────────┘
+                                       │  Aggregation + business rules
+                                       ▼
+                    ┌─────────────────────────────────────────────┐
+                    │              🥇 GOLD LAYER                  │
+                    │  P&L  │  Balance  │  WC  │  Expense Reports │
+                    └──────────┬──────────┬───────────┬───────────┘
+                               │          │           │
+                          Power BI    Excel/XLSX   PowerPoint
+```
+
+---
+
+### 🏗️ Proyectos principales
+
+| Proyecto | Descripción | Tech |
+|----------|-------------|------|
+| **`financial-planning`** | Arquitectura medallion completa para planeación financiera. Pipelines de presupuesto, dimensiones (sucursales, cuentas, centros de costo), clasificación dinámica de tiendas (Mismas vs Nuevas) con YAML config. | `Python` `Polars` `Parquet` `YAML` |
+| **Expense Report Generator** | Generador automatizado de 6 archivos XLSX por categoría de gasto con tablas comparativas YTD (actual vs año anterior, actual vs presupuesto, TT vs TM). | `Python` `Polars` `openpyxl` |
+| **Oracle GL Extractor** | Bot de Selenium que extrae reportes GL Auxiliar de Oracle Discoverer con mapeo completo de 20 campos de formulario. | `Python` `Selenium` |
+| **WC Weekly Pipeline** | Pipeline de Capital de Trabajo con salidas automatizadas en PowerPoint, PDF y Excel. Arquitectura clean-slate. | `Python` `pptx` `Polars` |
+| **Power BI Financial Suite** | Dashboard financiero con P&L, disconnected layout tables, parameter slicers, y tema Navy personalizado alineado a NIFs mexicanas. | `Power BI` `DAX` |
+
+---
+
+### 📚 En qué estoy invirtiendo
+
+```python
+learning_path = {
+    "matemáticas":  ["Álgebra de Baldor", "Spivak → Cálculo", "Álgebra Lineal"],
+    "finanzas":     ["Corporate Finance (currículo 24 meses)", "Microeconomía (Varian)"],
+    "data_eng":     ["Fundamentals of Data Engineering (Reis & Housley)"],
+    "universidad":  ["UANL — Actuaría"],
+}
+```
+
+---
+
+### 🎯 Hacia dónde voy
+
+Mi objetivo a largo plazo es ser el puente entre **ingeniería de datos** y **finanzas corporativas** — un perfil que en México es raro y valioso. No soy un data scientist genérico; soy alguien que entiende un Estado de Resultados, sabe construir el pipeline que lo alimenta, y puede automatizar su entrega de punta a punta.
+
+---
 
 <div align="center">
-  <h4>From <a href="https://github.com/oviedomarco">oviedomarco</h4>
+
+### 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oviedomarco&show_icons=true&theme=react&bg_color=0a192f&title_color=64ffda&icon_color=64ffda&text_color=8892b0&border_color=112240&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviedomarco&layout=compact&theme=react&bg_color=0a192f&title_color=64ffda&text_color=8892b0&border_color=112240&hide_border=false" />
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:233554&height=100&section=footer&fontColor=64ffda" alt="footer"/>
+
+  <sub>Built with honesty, not with hype.</sub>
+  
 </div>
